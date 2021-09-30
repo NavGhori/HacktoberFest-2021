@@ -15,3 +15,7 @@ Place: India <br/>
 Name: [Padmasri](https://github.com/sujata13) <br/>
 Place: India <br/>
 About: Web developer <br/>
+
+Name: [Naveed Ghori](https://github.com/NavGhori)
+Place: Perth
+About: C/C++/C# Developper
